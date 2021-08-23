@@ -51,6 +51,11 @@ __Lints and fixes files__
 ```
 yarn lint
 ```
+or
+```
+eslint --fix
+```
+
 
 [c:1]: https://vuejs.org/
 [c:2]: https://cli.vuejs.org/guide/
