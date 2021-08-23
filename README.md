@@ -19,7 +19,7 @@ The goal of this project is to create a reusable starter project for real-world 
 
 __Clone this repo__
 ```
-git clone https://github.com/Tardigrada777/vuetify-ts-template.git
+git clone https://github.com/saurabh1294/vuejs-vuetify-template.git
 ```
 
 __Install deps__
